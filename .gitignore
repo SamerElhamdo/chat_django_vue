@@ -3,7 +3,7 @@ node_modules
 /dist
 
 env/
-
+secrets.py
 
 # local env files
 .env.local
